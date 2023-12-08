@@ -29,3 +29,11 @@ Changes not staged for commit:
   (use "git restore <file>..." to discard changes in working directory)
 	modified:   README.md
 
+git commit -m "adding start file"
+https://github.com/cli/cli/blob/trunk/docs/install_linux.md
+created get-gh, ran it
+
+https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git
+gh auth login
+
+
